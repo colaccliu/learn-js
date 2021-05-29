@@ -1,4 +1,4 @@
-const Math = require("./math");
+const {Math} = require("./math");
 const m = new Math();
 const n = new Math();
 
